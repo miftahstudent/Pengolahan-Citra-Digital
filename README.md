@@ -6,10 +6,11 @@ Repositori ini berisi kumpulan kode dan notebook yang berfokus pada **Pengolahan
 
 ## Fitur Utama
 
+## Fitur Utama
+
 - **Peningkatan Kontras**: Teknik untuk meningkatkan perbedaan antara elemen terang dan gelap pada citra.
-- **Penajaman Gambar**: Metode untuk menonjolkan detail dalam gambar.
-- **Transformasi Geometris**: Operasi seperti rotasi, skala, dan translasi pada citra.
-- **Deteksi Tepi**: Identifikasi batas objek dalam gambar.
+- **Noise**: Penghapusan atau pengurangan gangguan yang mengurangi kualitas gambar.
+- **Peningkatan Kontras**: Penyesuaian tambahan untuk memperjelas detail dalam gambar.
 
 ## Prasyarat
 
