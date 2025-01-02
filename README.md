@@ -25,8 +25,8 @@ Sebelum menjalankan kode dalam repositori ini, pastikan Anda telah menginstal de
     git clone https://github.com/miftahstudent/Pengolahan-Citra-Digital.git
 2. Masuk ke direktori proyek:
     ```bash
-    cd Pengolahan_Citra.ipynb
-    cd PeningkatanKontras.ipynb
+    cd Pengolahan_Citra
+    cd PeningkatanKontras
 3. Jalankan notebook yang diinginkan menggunakan Google Collab, Jupyter Notebook atau JupyterLab
 
 ## Anggota Kelompok 2
