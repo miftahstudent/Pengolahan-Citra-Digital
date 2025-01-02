@@ -10,7 +10,7 @@ Repositori ini berisi kumpulan kode dan notebook yang berfokus pada **Pengolahan
 
 - **Peningkatan Kontras**: Teknik untuk meningkatkan perbedaan antara elemen terang dan gelap pada citra.
 - **Noise**: Penghapusan atau pengurangan gangguan yang mengurangi kualitas gambar.
-- **Peningkatan Kontras**: Penyesuaian tambahan untuk memperjelas detail dalam gambar.
+- **Penajaman gambar**: Penyesuaian tambahan untuk memperjelas detail dalam gambar.
 
 ## Prasyarat
 
